@@ -14,6 +14,7 @@ Kanban Board:
 ![image](https://github.com/user-attachments/assets/6f8e9b29-ef63-4294-87f4-2b63aacb4f93)
 
 New Ticket:
+
 ![image](https://github.com/user-attachments/assets/c6ace4ed-d24d-4b77-867e-0f9feb958d12)
 
 
